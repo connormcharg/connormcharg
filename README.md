@@ -1,6 +1,8 @@
 <div align="center">
 
-# Connor McHarg
+<picture>
+  <img alt="banner" src="https://raw.githubusercontent.com/MaximumFire/MaximumFire/main/banner.png" />
+</picture>
 
 Hey there, I'm Connor!
 I mainly solve coding problems for fun alongside my coursework project.
