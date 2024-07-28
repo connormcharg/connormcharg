@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img alt="banner" src="https://raw.githubusercontent.com/MaximumFire/MaximumFire/main/banner_new.png" />
+  <img alt="banner" src="https://github.com/MaximumFire/MaximumFire/blob/ca20d91a86e6beed0713d6e0332ee4fcc97c78b7/banner_new.png" />
 </picture>
 
 Hey there, I'm Connor!
