@@ -13,9 +13,9 @@ I mainly solve coding problems for fun alongside my coursework project.
   <img alt="github-snake" src="https://github.com/MaximumFire/MaximumFire/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![](https://github-readme-stats.vercel.app/api?username=MaximumFire&hide_border=true&theme=transparent&show_icons=true) 
+![](https://github-readme-stats.vercel.app/api?username=connormcharg&hide_border=true&theme=transparent&show_icons=true) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximumFire&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=connormcharg&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 #
 </div>
