@@ -5,6 +5,7 @@
 </picture>
 
 Hey there, I'm Connor!
+<br></br>
 I am an aspiring software engineer and I enjoy solving programming problems and challenges in my spare time.
 
 <picture>
