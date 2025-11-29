@@ -5,7 +5,7 @@
 </picture>
 
 Hey there, I'm Connor!
-I mainly solve coding problems for fun alongside my coursework project.
+I am an aspiring software engineer and I enjoy solving programming problems and challenges in my spare time.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaximumFire/MaximumFire/blob/output/github-contribution-grid-snake-dark.svg" />
