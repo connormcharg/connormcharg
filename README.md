@@ -15,6 +15,4 @@ I am an aspiring software engineer and I enjoy solving programming problems and 
 </picture>
 
 ![](https://github-readme-stats.vercel.app/api?username=connormcharg&hide_border=true&theme=transparent&show_icons=true) 
-
-#
 </div>
