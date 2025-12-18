@@ -16,7 +16,5 @@ I am an aspiring software engineer and I enjoy solving programming problems and 
 
 ![](https://github-readme-stats.vercel.app/api?username=connormcharg&hide_border=true&theme=transparent&show_icons=true) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=connormcharg&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
-
 #
 </div>
